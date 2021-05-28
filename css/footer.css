@@ -31,7 +31,7 @@ li{
         display:flex;
     }
 
-
+    /* Empuja a la ul Menu_principal , dejando espacion entre ambas */
     .Redes_sociales{
         flex-grow:0.18;
      }
