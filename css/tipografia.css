@@ -3,5 +3,7 @@
 
 /* Variables */
 :root{
-    
+
+    --FamilyFont:sans-serif; 
+    --FontColor:#fafafa;
 }

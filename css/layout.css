@@ -1,2 +1,22 @@
 /* LAYOUT */
 /* ***** */
+body{
+   color:var(--FontColor);
+   font-family:var(--FamilyFont);
+   background-color:var(--BodyBackCol);
+}
+
+a{
+  color:var(--LinkColor);
+}
+
+.logo{
+  color:var(--LogoColor);
+}
+
+
+main{
+  height:250px;
+}
+
+

@@ -1,2 +1,42 @@
 /* FOOTER */
 /* ***** */
+footer{
+    background-color:Var(--ColBackFoot);
+    color:var(--FontColor);
+    padding:10px 15px;
+}
+
+h6{
+    font-size:18px;
+}
+
+footer p,.copy{
+    text-align:center;
+}
+
+ul{
+    margin-left:5px;
+    padding:15px 0;
+}
+
+li{
+    margin-bottom:15px;
+}
+
+
+/* Desktop */
+@media only screen and (min-width: 400px) {
+    
+    .flexi{
+        display:flex;
+    }
+
+    .Menu_principal{
+        margin-left:100px;
+    }
+    
+
+}
+
+
+
