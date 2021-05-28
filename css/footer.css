@@ -31,12 +31,12 @@ li{
         display:flex;
     }
 
-    .Menu_principal{
-        margin-left:100px;
-    }
+
+    .Redes_sociales{
+        flex-grow:0.18;
+     }
     
 
 }
-
 
 
