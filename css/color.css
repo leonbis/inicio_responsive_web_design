@@ -3,5 +3,9 @@
 
 /* Variables */
 :root{
-
+   --ColBackFoot:#4067EA;
+   --FontColor:#fafafa;
+   --LogoColor:#333;
+   --BodyBackCol:#fff;
+   --LinkColor:#fafafa;
 }
